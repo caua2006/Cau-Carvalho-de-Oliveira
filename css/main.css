@@ -36,7 +36,7 @@
     align-items: center;
     margin-bottom: 0.25rem;
 }
-.esquerda p {
+.esquerda > p {
     color: #fff;
     line-height: 1.625rem;
     margin-bottom: 1.625rem;
@@ -57,9 +57,7 @@
     padding: 1.5rem; 
 
 }
-.direita h2 {
-    margin-bottom: 1.125rem;
-}
+
 .direita p {
     line-height: 1.25rem;
     font-size: 0.875rem;
